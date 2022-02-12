@@ -1,3 +1,17 @@
 body {
     margin:0;
 }
+.math-problem {
+    display:flex;
+}
+.solution {
+    border:5px solid black;
+    font-size:15px;
+}
+p {
+    margin:0;
+    font-size:3rem;
+}
+.operator {
+    font-size:3rem;
+}
